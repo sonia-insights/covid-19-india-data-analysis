@@ -2,6 +2,7 @@
 
 
 **Project Overview**
+
 -This project performs an end-to-end exploratory data analysis (EDA) on official Government of India COVID-19 datasets.
 
 -The analysis focuses on time-based trends, state-wise insights, and policy-relevant KPIs using Python, Pandas, and NumPy.
@@ -10,6 +11,7 @@
 
 
 ***Objectives***
+
 --Clean and standardize raw government COVID-19 data
 
 --Handle missing values and inconsistent column naming
