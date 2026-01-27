@@ -1,9 +1,10 @@
-COVID-19 India Data Analysis (Pandas Project)
-**Project Overview**
-This project performs an end-to-end exploratory data analysis (EDA) on official Government of India COVID-19 datasets.
-The analysis focuses on time-based trends, state-wise insights, and policy-relevant KPIs using Python, Pandas, and NumPy.
+****COVID-19 India Data Analysis (Pandas Project)****
 
-This project is designed to demonstrate real-world data analyst skills, including data cleaning, aggregation, KPI creation, and structured output generation.
+
+**Project Overview**
+-This project performs an end-to-end exploratory data analysis (EDA) on official Government of India COVID-19 datasets.
+-The analysis focuses on time-based trends, state-wise insights, and policy-relevant KPIs using Python, Pandas, and NumPy.
+-This project is designed to demonstrate real-world data analyst skills, including data cleaning, aggregation, KPI creation, and structured output generation.
 
 ***Objectives***
 --Clean and standardize raw government COVID-19 data
