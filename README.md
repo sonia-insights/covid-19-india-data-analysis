@@ -54,9 +54,7 @@ Official Government of India datasets:
 covid-19-india-data-analysis/
 
 ├── data/
-
 │   ├── raw/              # Original government datasets
-
 │   └── cleaned/          # Cleaned & standardized datasets
 │
 ├── notebooks/
