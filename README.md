@@ -1,5 +1,13 @@
 ****COVID-19 India Data Analysis (Pandas Project)****
 
+## Project Workflow
+
+1. Imported raw COVID-19 case, testing, and vaccination datasets
+2. Cleaned inconsistent state names and date formats
+3. Handled missing values using domain-based logic
+4. Created time-based, state-wise, and KPI summary tables
+5. Exported analysis-ready CSVs for reporting
+
 
 **Project Overview**
 
